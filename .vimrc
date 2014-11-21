@@ -41,6 +41,9 @@ set hlsearch
 set history=100
 
 set background=dark
+let g:solarized_termcolors=256
+" let g:solarized_contrast="high" 
+" let g:solarized_visibility="high"
 colorscheme solarized
 
 map <leader>rr :e ~/.vimrc<CR>
