@@ -15,6 +15,7 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'tpope/vim-sensible'
 Plugin 'mileszs/ack.vim'
 Plugin 'tpope/vim-projectionist'
+Plugin 'tpope/vim-vinegar'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
